@@ -1,14 +1,17 @@
 import { useEffect, useState, FC } from 'react';
 import { useNavigate } from 'react-router-dom';
 import deitiesData from '../data/deities.json';
+import demonsData from '../data/demons.json';
 import questionsData from '../data/questions.json';
+import demonQuestionsData from '../data/demon-questions.json';
 import { computeResult, Deity, Question } from '../lib/scoring';
 
 interface ResultProps {
   answers: number[];
+  mode: 'mythology' | 'dark';
 }
 
-const Result: FC<ResultProps> = ({ answers }) => {
+const Result: FC<ResultProps> = ({ answers, mode }) => {
   const navigate = useNavigate();
   const [resultDeity, setResultDeity] = useState<Deity | null>(null);
 
@@ -17,7 +20,9 @@ const Result: FC<ResultProps> = ({ answers }) => {
       navigate('/'); // Go back if no answers
       return;
     }
-    const result = computeResult(answers, questionsData as Question[], deitiesData as Deity[]);
+    const deities = (mode === 'dark' ? demonsData : deitiesData) as Deity[];
+    const questions = (mode === 'dark' ? demonQuestionsData : questionsData) as Question[];
+    const result = computeResult(answers, questions, deities);
     setResultDeity(result);
   }, [answers, navigate]);
 

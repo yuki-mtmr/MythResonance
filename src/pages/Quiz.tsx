@@ -1,15 +1,17 @@
 import { useState, FC } from 'react';
 import { useNavigate } from 'react-router-dom';
 import questionsData from '../data/questions.json';
+import demonQuestionsData from '../data/demon-questions.json';
 import { Question } from '../lib/scoring';
 
 interface QuizProps {
   setFinalAnswers: (answers: number[]) => void;
+  mode: 'mythology' | 'dark';
 }
 
-const Quiz: FC<QuizProps> = ({ setFinalAnswers }) => {
+const Quiz: FC<QuizProps> = ({ setFinalAnswers, mode }) => {
   const navigate = useNavigate();
-  const questions = questionsData as Question[];
+  const questions = (mode === 'dark' ? demonQuestionsData : questionsData) as Question[];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<number[]>([]);
 

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "dq1",
+    "text": "あなたが最も惹かれる「力」はどれですか？",
+    "options": [
+      {
+        "label": "絶対的な支配と権力",
+        "scores": { "tyrant": 3, "emperor": 3, "sauron": 2, "mad_titan": 2, "magneto": 2, "voldemort": 2 }
+      },
+      {
+        "label": "知性と策略",
+        "scores": { "manipulator": 3, "riddler": 3, "mephistopheles": 2, "god_of_mischief": 2, "azazel": 2 }
+      },
+      {
+        "label": "恐怖と破壊",
+        "scores": { "joker": 3, "carnage": 3, "scarecrow": 2, "freddy": 2, "pennywise": 2 }
+      },
+      {
+        "label": "誘惑と魅力",
+        "scores": { "vampire": 3, "asmodeus": 3, "incubus": 2, "siren": 2, "poison_ivy": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq2",
+    "text": "あなたの「弱点」は何だと思いますか？",
+    "options": [
+      {
+        "label": "孤独と孤立",
+        "scores": { "dark_knight": 3, "darth_vader": 3, "minotaur": 2, "medusa": 2, "phantom": 2 }
+      },
+      {
+        "label": "執着と強迫観念",
+        "scores": { "serial_killer": 3, "mad_scientist": 3, "jason": 2, "wendigo": 2, "harpy": 2 }
+      },
+      {
+        "label": "傲慢と自己愛",
+        "scores": { "narcissist": 3, "lucifer": 3, "voldemort": 2, "mammon": 2 }
+      },
+      {
+        "label": "感情の欠如",
+        "scores": { "psychopath": 3, "terminator": 3, "alien": 2, "grim_reaper": 2, "golem": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq3",
+    "text": "あなたが最も恐れるものは？",
+    "options": [
+      {
+        "label": "死と消滅",
+        "scores": { "voldemort": 3, "emperor": 3, "vampire": 2, "phoenix_dark": 2 }
+      },
+      {
+        "label": "無力感と支配されること",
+        "scores": { "tyrant": 3, "magneto": 3, "lilith": 2, "venom": 2 }
+      },
+      {
+        "label": "孤独と拒絶",
+        "scores": { "god_of_mischief": 3, "homunculus": 2, "doppelganger": 2, "banshee": 2 }
+      },
+      {
+        "label": "何も恐れない",
+        "scores": { "joker": 3, "carnage": 3, "cthulhu": 2, "nyarlathotep": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq4",
+    "text": "あなたの「目的」は何ですか？",
+    "options": [
+      {
+        "label": "世界を支配する",
+        "scores": { "sauron": 3, "emperor": 3, "mad_titan": 2, "dagon": 2 }
+      },
+      {
+        "label": "復讐を果たす",
+        "scores": { "phantom": 3, "freddy": 3, "jason": 2, "harpy": 2, "poison_ivy": 2 }
+      },
+      {
+        "label": "知識を追求する",
+        "scores": { "mad_scientist": 3, "azazel": 3, "baphomet": 2, "odin": 2 }
+      },
+      {
+        "label": "混沌を楽しむ",
+        "scores": { "joker": 3, "nyarlathotep": 3, "poltergeist": 2, "carnage": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq5",
+    "text": "あなたの「本質」は何ですか？",
+    "options": [
+      {
+        "label": "冷酷な計算",
+        "scores": { "psychopath": 3, "terminator": 3, "hannibal": 2, "predator": 2 }
+      },
+      {
+        "label": "燃え盛る情熱",
+        "scores": { "sadist": 3, "carnage": 3, "moloch": 2, "phoenix_dark": 2 }
+      },
+      {
+        "label": "深い悲しみ",
+        "scores": { "darth_vader": 3, "banshee": 3, "phantom": 2, "minotaur": 2 }
+      },
+      {
+        "label": "空虚な虚無",
+        "scores": { "grim_reaper": 3, "shadow_self": 3, "belphegor": 2, "alien": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq6",
+    "text": "あなたが最も得意とすることは？",
+    "options": [
+      {
+        "label": "人を操ること",
+        "scores": { "manipulator": 3, "cult_leader": 3, "mephistopheles": 2, "god_of_mischief": 2 }
+      },
+      {
+        "label": "恐怖を与えること",
+        "scores": { "scarecrow": 3, "pennywise": 3, "freddy": 2, "chucky": 2 }
+      },
+      {
+        "label": "誘惑すること",
+        "scores": { "asmodeus": 3, "siren": 3, "vampire": 2, "incubus": 2 }
+      },
+      {
+        "label": "破壊すること",
+        "scores": { "abaddon": 3, "kraken": 3, "carnage": 2, "phoenix_dark": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq7",
+    "text": "あなたの「居場所」はどこですか？",
+    "options": [
+      {
+        "label": "玉座の上",
+        "scores": { "tyrant": 3, "emperor": 3, "sauron": 2, "basilisk": 2 }
+      },
+      {
+        "label": "影の中",
+        "scores": { "manipulator": 3, "dark_knight": 3, "skinwalker": 2, "shadow_self": 2 }
+      },
+      {
+        "label": "深淵の底",
+        "scores": { "cthulhu": 3, "leviathan": 3, "dagon": 2, "kraken": 2 }
+      },
+      {
+        "label": "混沌の渦中",
+        "scores": { "joker": 3, "nyarlathotep": 3, "poltergeist": 2, "two_face": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq8",
+    "text": "あなたが最も嫌うものは？",
+    "options": [
+      {
+        "label": "弱さと無能",
+        "scores": { "tyrant": 3, "magneto": 3, "predator": 2, "alien": 2 }
+      },
+      {
+        "label": "裏切りと欺瞞",
+        "scores": { "god_of_mischief": 2, "two_face": 3, "cerberus": 2, "golem": 2 }
+      },
+      {
+        "label": "秩序と規則",
+        "scores": { "joker": 3, "carnage": 3, "lilith": 2, "lucifer": 2 }
+      },
+      {
+        "label": "人間そのもの",
+        "scores": { "poison_ivy": 3, "alien": 3, "wendigo": 2, "basilisk": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq9",
+    "text": "あなたの「武器」は何ですか？",
+    "options": [
+      {
+        "label": "言葉と策略",
+        "scores": { "riddler": 3, "mephistopheles": 3, "cult_leader": 2, "azazel": 2 }
+      },
+      {
+        "label": "圧倒的な力",
+        "scores": { "mad_titan": 3, "venom": 3, "kraken": 2, "chimera": 2 }
+      },
+      {
+        "label": "魔法と呪術",
+        "scores": { "voldemort": 3, "sauron": 3, "skinwalker": 2, "pinhead": 2 }
+      },
+      {
+        "label": "狂気と恐怖",
+        "scores": { "joker": 3, "scarecrow": 3, "freddy": 2, "pennywise": 2 }
+      }
+    ]
+  },
+  {
+    "id": "dq10",
+    "text": "最後に、あなたの「運命」は？",
+    "options": [
+      {
+        "label": "永遠の支配",
+        "scores": { "emperor": 3, "sauron": 3, "vampire": 2, "lucifer": 2 }
+      },
+      {
+        "label": "破滅と再生",
+        "scores": { "phoenix_dark": 3, "darth_vader": 3, "abaddon": 2, "wendigo": 2 }
+      },
+      {
+        "label": "永遠の孤独",
+        "scores": { "cthulhu": 3, "medusa": 3, "minotaur": 2, "banshee": 2 }
+      },
+      {
+        "label": "混沌の中で笑う",
+        "scores": { "joker": 3, "carnage": 3, "nyarlathotep": 2, "poltergeist": 2 }
+      }
+    ]
+  }
+]
