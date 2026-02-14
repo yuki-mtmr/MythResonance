@@ -17,7 +17,7 @@ const Home: FC<HomeProps> = ({ setMode }) => {
     <div className="home-container fade-in">
       <header className="hero">
         <h1 className="title">Myth Resonance</h1>
-        <p className="subtitle">10の問いで、あなたの内なる本質を見つける</p>
+        <p className="subtitle">20の問いで、あなたの内なる本質を見つける</p>
       </header>
 
       <main className="main-content">

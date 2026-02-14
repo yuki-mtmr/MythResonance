@@ -1,221 +1,1172 @@
 [
   {
     "id": "dq1",
-    "text": "あなたが最も惹かれる「力」はどれですか？",
+    "text": "あなたのシャドウ（影）が語りかけるとしたら、何と言うだろう？",
     "options": [
       {
-        "label": "絶対的な支配と権力",
-        "scores": { "tyrant": 3, "emperor": 3, "sauron": 2, "mad_titan": 2, "magneto": 2, "voldemort": 2 }
+        "label": "「お前が本当に望んでいるのは、全てを支配することだ」",
+        "scores": {
+          "tyrant": 3,
+          "scylla": 3,
+          "manipulator": 2,
+          "fenrir": 1,
+          "scarecrow": 1,
+          "chimera": 1,
+          "poltergeist": 1,
+          "chernobog": 1,
+          "banshee": 1
+        }
       },
       {
-        "label": "知性と策略",
-        "scores": { "manipulator": 3, "riddler": 3, "mephistopheles": 2, "god_of_mischief": 2, "azazel": 2 }
+        "label": "「お前は誰よりも賢い。愚か者どもを操るのがお前の本性だ」",
+        "scores": {
+          "manipulator": 3,
+          "mephistopheles": 3,
+          "scylla": 2,
+          "predator": 1,
+          "sadist": 1,
+          "doppelganger": 1,
+          "manticore": 1,
+          "hecate": 1
+        }
       },
       {
-        "label": "恐怖と破壊",
-        "scores": { "joker": 3, "carnage": 3, "scarecrow": 2, "freddy": 2, "pennywise": 2 }
+        "label": "「壊せ。全てを焼き尽くし、灰の中で笑え」",
+        "scores": {
+          "joker": 3,
+          "carnage": 3,
+          "manipulator": 2,
+          "nyarlathotep": 1,
+          "siren": 1,
+          "kraken": 1,
+          "soul_eater": 1,
+          "vampire": 1
+        }
       },
       {
-        "label": "誘惑と魅力",
-        "scores": { "vampire": 3, "asmodeus": 3, "incubus": 2, "siren": 2, "poison_ivy": 2 }
+        "label": "「お前の中に眠る欲望を解放しろ。禁じられた快楽に身を委ねろ」",
+        "scores": {
+          "asmodeus": 3,
+          "incubus": 3,
+          "mephistopheles": 2,
+          "tiamat": 1,
+          "god_of_mischief": 1,
+          "scylla": 1,
+          "medusa": 1,
+          "baphomet": 1
+        }
       }
     ]
   },
   {
     "id": "dq2",
-    "text": "あなたの「弱点」は何だと思いますか？",
+    "text": "あなたが最も深く抑圧してきた欲望は何か？",
     "options": [
       {
-        "label": "孤独と孤立",
-        "scores": { "dark_knight": 3, "darth_vader": 3, "minotaur": 2, "medusa": 2, "phantom": 2 }
+        "label": "他者を完全に従わせ、絶対的な服従を得たい",
+        "scores": {
+          "cult_leader": 3,
+          "sadist": 3,
+          "azazel": 2,
+          "cerberus": 1,
+          "psychopath": 1,
+          "alp": 1,
+          "mad_titan": 1,
+          "abaddon": 1,
+          "golem": 1
+        }
       },
       {
-        "label": "執着と強迫観念",
-        "scores": { "serial_killer": 3, "mad_scientist": 3, "jason": 2, "wendigo": 2, "harpy": 2 }
+        "label": "全ての秘密と禁断の知識を手に入れたい",
+        "scores": {
+          "azazel": 3,
+          "mad_scientist": 3,
+          "sadist": 2,
+          "sauron": 1,
+          "manipulator": 1,
+          "carnage": 1,
+          "mara": 1,
+          "two_face": 1
+        }
       },
       {
-        "label": "傲慢と自己愛",
-        "scores": { "narcissist": 3, "lucifer": 3, "voldemort": 2, "mammon": 2 }
+        "label": "何にも縛られず、全ての制約から解放されたい",
+        "scores": {
+          "lilith": 3,
+          "lucifer": 3,
+          "azazel": 2,
+          "belphegor": 1,
+          "skinwalker": 1,
+          "jiangshi": 1,
+          "djinn": 1,
+          "moloch": 1
+        }
       },
       {
-        "label": "感情の欠如",
-        "scores": { "psychopath": 3, "terminator": 3, "alien": 2, "grim_reaper": 2, "golem": 2 }
+        "label": "永遠に生き、死という概念を超越したい",
+        "scores": {
+          "vampire": 3,
+          "voldemort": 3,
+          "jiangshi": 3,
+          "mad_scientist": 2,
+          "freddy": 1,
+          "homunculus": 1,
+          "minotaur": 1,
+          "pennywise": 1
+        }
       }
     ]
   },
   {
     "id": "dq3",
-    "text": "あなたが最も恐れるものは？",
+    "text": "夜、鏡に映る「もう一人の自分」がいたら、どんな表情をしている？",
     "options": [
       {
-        "label": "死と消滅",
-        "scores": { "voldemort": 3, "emperor": 3, "vampire": 2, "phoenix_dark": 2 }
+        "label": "冷酷に微笑んでいる。感情のない瞳で見つめ返す",
+        "scores": {
+          "serial_killer": 3,
+          "psychopath": 3,
+          "hannibal": 3,
+          "oni": 2,
+          "jason": 1,
+          "rakshasa": 1,
+          "cult_leader": 1,
+          "banshee": 1,
+          "cerberus": 1
+        }
       },
       {
-        "label": "無力感と支配されること",
-        "scores": { "tyrant": 3, "magneto": 3, "lilith": 2, "venom": 2 }
+        "label": "激しい怒りに歪んでいる。今にも鏡を破りそうだ",
+        "scores": {
+          "oni": 3,
+          "minotaur": 3,
+          "venom": 3,
+          "psychopath": 2,
+          "dagon": 1,
+          "behemoth": 1,
+          "phoenix_dark": 1,
+          "poison_ivy": 1
+        }
       },
       {
-        "label": "孤独と拒絶",
-        "scores": { "god_of_mischief": 3, "homunculus": 2, "doppelganger": 2, "banshee": 2 }
+        "label": "深い悲しみに沈んでいる。涙が血のように流れている",
+        "scores": {
+          "darth_vader": 3,
+          "banshee": 3,
+          "hannibal": 2,
+          "venom": 1,
+          "dark_knight": 1,
+          "dracula": 1,
+          "vortigern": 1,
+          "jekyll_hyde": 1
+        }
       },
       {
-        "label": "何も恐れない",
-        "scores": { "joker": 3, "carnage": 3, "cthulhu": 2, "nyarlathotep": 2 }
+        "label": "全く別の姿に変わっている。もはや自分ではない何かだ",
+        "scores": {
+          "skinwalker": 3,
+          "doppelganger": 3,
+          "oni": 2,
+          "ahriman": 1,
+          "lilith": 1,
+          "golem": 1,
+          "mammon": 1,
+          "naga": 1
+        }
       }
     ]
   },
   {
     "id": "dq4",
-    "text": "あなたの「目的」は何ですか？",
+    "text": "無意識が選ぶ「禁じられた快楽」とは？",
     "options": [
       {
-        "label": "世界を支配する",
-        "scores": { "sauron": 3, "emperor": 3, "mad_titan": 2, "dagon": 2 }
+        "label": "他者の恐怖を見ること。怯える瞳に映る自分に酔う",
+        "scores": {
+          "scarecrow": 3,
+          "pennywise": 3,
+          "mammon": 2,
+          "serial_killer": 1,
+          "terminator": 1,
+          "ammit": 1,
+          "narcissist": 1,
+          "harpy": 1,
+          "kraken": 1
+        }
       },
       {
-        "label": "復讐を果たす",
-        "scores": { "phantom": 3, "freddy": 3, "jason": 2, "harpy": 2, "poison_ivy": 2 }
+        "label": "禁断の契約。何かを犠牲にして力を得る背徳感",
+        "scores": {
+          "mammon": 3,
+          "soul_eater": 3,
+          "pennywise": 2,
+          "phantom": 1,
+          "joker": 1,
+          "jorogumo": 1,
+          "magneto": 1,
+          "jormungandr": 1
+        }
       },
       {
-        "label": "知識を追求する",
-        "scores": { "mad_scientist": 3, "azazel": 3, "baphomet": 2, "odin": 2 }
+        "label": "破壊の後の静寂。全てが消え去った後の空虚な美しさ",
+        "scores": {
+          "abaddon": 3,
+          "grim_reaper": 3,
+          "mammon": 2,
+          "alien": 1,
+          "mephistopheles": 1,
+          "leviathan": 1,
+          "lucifer": 1,
+          "beelzebub": 1
+        }
       },
       {
-        "label": "混沌を楽しむ",
-        "scores": { "joker": 3, "nyarlathotep": 3, "poltergeist": 2, "carnage": 2 }
+        "label": "肉体の極限。痛みと快楽の境界線を超える感覚",
+        "scores": {
+          "sadist": 3,
+          "pinhead": 3,
+          "wendigo": 3,
+          "soul_eater": 2,
+          "voldemort": 1,
+          "grim_reaper": 1,
+          "hannibal": 1,
+          "rangda": 1
+        }
       }
     ]
   },
   {
     "id": "dq5",
-    "text": "あなたの「本質」は何ですか？",
+    "text": "最も認めたくない自分の本性はどれか？",
     "options": [
       {
-        "label": "冷酷な計算",
-        "scores": { "psychopath": 3, "terminator": 3, "hannibal": 2, "predator": 2 }
+        "label": "どんな美辞麗句で飾っても、結局は自分のことしか愛せない",
+        "scores": {
+          "siren": 3,
+          "narcissist": 3,
+          "hannibal": 2,
+          "darth_vader": 1,
+          "persephone_shadow": 1,
+          "shadow_self": 1,
+          "oni": 1,
+          "azazel": 1,
+          "jiangshi": 1
+        }
       },
       {
-        "label": "燃え盛る情熱",
-        "scores": { "sadist": 3, "carnage": 3, "moloch": 2, "phoenix_dark": 2 }
+        "label": "人間を道具としか見ていない。共感は全て演技だ",
+        "scores": {
+          "hannibal": 3,
+          "terminator": 3,
+          "predator": 3,
+          "narcissist": 2,
+          "basilisk": 1,
+          "riddler": 1,
+          "chucky": 1,
+          "roanoke_spirit": 1
+        }
       },
       {
-        "label": "深い悲しみ",
-        "scores": { "darth_vader": 3, "banshee": 3, "phantom": 2, "minotaur": 2 }
+        "label": "世界が燃えるのを見て、心のどこかで喜んでいる",
+        "scores": {
+          "carnage": 3,
+          "poltergeist": 3,
+          "oni": 3,
+          "hannibal": 2,
+          "asmodeus": 1,
+          "sphinx_dark": 1,
+          "cipactli": 1,
+          "incubus": 1
+        }
       },
       {
-        "label": "空虚な虚無",
-        "scores": { "grim_reaper": 3, "shadow_self": 3, "belphegor": 2, "alien": 2 }
+        "label": "本当は何者にもなれない空虚な存在。中身は何もない",
+        "scores": {
+          "shadow_self": 3,
+          "homunculus": 3,
+          "terminator": 2,
+          "emperor": 1,
+          "wendigo": 1,
+          "cthulhu": 1,
+          "mad_scientist": 1,
+          "tyrant": 1
+        }
       }
     ]
   },
   {
     "id": "dq6",
-    "text": "あなたが最も得意とすることは？",
+    "text": "トロッコが暴走している。5人を救うために1人を犠牲にするレバーがある。あなたの選択は？",
     "options": [
       {
-        "label": "人を操ること",
-        "scores": { "manipulator": 3, "cult_leader": 3, "mephistopheles": 2, "god_of_mischief": 2 }
+        "label": "迷わずレバーを引く。数の論理は絶対だ",
+        "scores": {
+          "mad_titan": 3,
+          "terminator": 3,
+          "two_face": 2,
+          "pinhead": 1,
+          "baba_yaga": 1,
+          "tengu": 1,
+          "riddler": 1,
+          "nyarlathotep": 1,
+          "roanoke_spirit": 1
+        }
       },
       {
-        "label": "恐怖を与えること",
-        "scores": { "scarecrow": 3, "pennywise": 3, "freddy": 2, "chucky": 2 }
+        "label": "レバーには触れない。運命は運命のままに",
+        "scores": {
+          "two_face": 3,
+          "belphegor": 3,
+          "terminator": 2,
+          "pennywise": 1,
+          "sadist": 1,
+          "manticore": 1,
+          "sphinx_dark": 1,
+          "mara": 1
+        }
       },
       {
-        "label": "誘惑すること",
-        "scores": { "asmodeus": 3, "siren": 3, "vampire": 2, "incubus": 2 }
+        "label": "6人全員を犠牲にしてでも、この状況を作った者を追い詰める",
+        "scores": {
+          "darth_vader": 3,
+          "phantom": 3,
+          "dark_knight": 3,
+          "two_face": 2,
+          "terminator": 1,
+          "mephistopheles": 1,
+          "incubus": 1,
+          "ammit": 1
+        }
       },
       {
-        "label": "破壊すること",
-        "scores": { "abaddon": 3, "kraken": 3, "carnage": 2, "phoenix_dark": 2 }
+        "label": "自分がトロッコに飛び込む。あるいは、そもそもトロッコを壊す",
+        "scores": {
+          "behemoth": 3,
+          "jormungandr": 3,
+          "belphegor": 2,
+          "venom": 1,
+          "freddy": 1,
+          "minotaur": 1,
+          "carnage": 1,
+          "magneto": 1
+        }
       }
     ]
   },
   {
     "id": "dq7",
-    "text": "あなたの「居場所」はどこですか？",
+    "text": "善のために悪を行えるか？どこまでなら許されると思う？",
     "options": [
       {
-        "label": "玉座の上",
-        "scores": { "tyrant": 3, "emperor": 3, "sauron": 2, "basilisk": 2 }
+        "label": "善悪の基準は勝者が決める。必要なら全てを行う",
+        "scores": {
+          "sauron": 3,
+          "vortigern": 3,
+          "baphomet": 2,
+          "asmodeus": 1,
+          "serial_killer": 1,
+          "homunculus": 1,
+          "tiamat": 1,
+          "basilisk": 1,
+          "tengu": 1
+        }
       },
       {
-        "label": "影の中",
-        "scores": { "manipulator": 3, "dark_knight": 3, "skinwalker": 2, "shadow_self": 2 }
+        "label": "善悪という概念自体が幻想。超越すべきだ",
+        "scores": {
+          "baphomet": 3,
+          "nyarlathotep": 3,
+          "vortigern": 2,
+          "jiangshi": 1,
+          "poltergeist": 1,
+          "alien": 1,
+          "naga": 1,
+          "dracula": 1
+        }
       },
       {
-        "label": "深淵の底",
-        "scores": { "cthulhu": 3, "leviathan": 3, "dagon": 2, "kraken": 2 }
+        "label": "自分の手を汚してでも、愛する者だけは守る",
+        "scores": {
+          "cerberus": 3,
+          "naga": 3,
+          "dark_knight": 3,
+          "baphomet": 2,
+          "voldemort": 1,
+          "mammon": 1,
+          "azazel": 1,
+          "emperor": 1
+        }
       },
       {
-        "label": "混沌の渦中",
-        "scores": { "joker": 3, "nyarlathotep": 3, "poltergeist": 2, "two_face": 2 }
+        "label": "善のためなら犠牲は当然。それが正義というものだ",
+        "scores": {
+          "moloch": 3,
+          "ammit": 3,
+          "nyarlathotep": 2,
+          "dark_knight": 1,
+          "belphegor": 1,
+          "lucifer": 1,
+          "manipulator": 1,
+          "mad_titan": 1
+        }
       }
     ]
   },
   {
     "id": "dq8",
-    "text": "あなたが最も嫌うものは？",
+    "text": "裏切りと忠誠の境界線。最も共感する状況は？",
     "options": [
       {
-        "label": "弱さと無能",
-        "scores": { "tyrant": 3, "magneto": 3, "predator": 2, "alien": 2 }
+        "label": "忠誠を尽くした相手に裏切られ、復讐鬼と化した",
+        "scores": {
+          "jason": 3,
+          "harpy": 3,
+          "god_of_mischief": 2,
+          "vortigern": 1,
+          "vampire": 1,
+          "leviathan": 1,
+          "baphomet": 1,
+          "beelzebub": 1
+        }
       },
       {
-        "label": "裏切りと欺瞞",
-        "scores": { "god_of_mischief": 2, "two_face": 3, "cerberus": 2, "golem": 2 }
+        "label": "より大きな目的のために、信頼していた者を裏切った",
+        "scores": {
+          "god_of_mischief": 3,
+          "tengu": 3,
+          "harpy": 2,
+          "joker": 1,
+          "rangda": 1,
+          "cerberus": 1,
+          "darth_vader": 1,
+          "chimera": 1
+        }
       },
       {
-        "label": "秩序と規則",
-        "scores": { "joker": 3, "carnage": 3, "lilith": 2, "lucifer": 2 }
+        "label": "忠誠心など幻想。最初から誰も信じていない",
+        "scores": {
+          "psychopath": 3,
+          "alien": 3,
+          "god_of_mischief": 2,
+          "scarecrow": 1,
+          "mad_scientist": 1,
+          "doppelganger": 1,
+          "wendigo": 1,
+          "golem": 1
+        }
       },
       {
-        "label": "人間そのもの",
-        "scores": { "poison_ivy": 3, "alien": 3, "wendigo": 2, "basilisk": 2 }
+        "label": "主人への絶対的忠誠。それが自分の存在理由だ",
+        "scores": {
+          "golem": 3,
+          "cerberus": 3,
+          "chucky": 3,
+          "tengu": 2,
+          "cult_leader": 1,
+          "hecate": 1,
+          "narcissist": 1,
+          "siren": 1
+        }
       }
     ]
   },
   {
     "id": "dq9",
-    "text": "あなたの「武器」は何ですか？",
+    "text": "最も深い傷を負わせた相手が目の前にいる。復讐か赦しか？",
     "options": [
       {
-        "label": "言葉と策略",
-        "scores": { "riddler": 3, "mephistopheles": 3, "cult_leader": 2, "azazel": 2 }
+        "label": "復讐する。この世で最も甘美なのは報復だ",
+        "scores": {
+          "freddy": 3,
+          "roanoke_spirit": 3,
+          "jason": 3,
+          "riddler": 2,
+          "tengu": 1,
+          "rakshasa": 1,
+          "jekyll_hyde": 1,
+          "predator": 1
+        }
       },
       {
-        "label": "圧倒的な力",
-        "scores": { "mad_titan": 3, "venom": 3, "kraken": 2, "chimera": 2 }
+        "label": "赦しはしない。だが復讐もしない。ただ見下す",
+        "scores": {
+          "riddler": 3,
+          "basilisk": 3,
+          "narcissist": 3,
+          "roanoke_spirit": 2,
+          "psychopath": 1,
+          "ahriman": 1,
+          "grim_reaper": 1,
+          "jason": 1
+        }
       },
       {
-        "label": "魔法と呪術",
-        "scores": { "voldemort": 3, "sauron": 3, "skinwalker": 2, "pinhead": 2 }
+        "label": "赦す。だがその赦しの重みで、相手を永遠に縛る",
+        "scores": {
+          "mephistopheles": 3,
+          "azazel": 3,
+          "baba_yaga": 3,
+          "jason": 2,
+          "oni": 1,
+          "abaddon": 1,
+          "roanoke_spirit": 1,
+          "djinn": 1
+        }
       },
       {
-        "label": "狂気と恐怖",
-        "scores": { "joker": 3, "scarecrow": 3, "freddy": 2, "pennywise": 2 }
+        "label": "復讐も赦しも無意味。全てを無に帰す",
+        "scores": {
+          "chernobog": 3,
+          "cthulhu": 3,
+          "riddler": 2,
+          "persephone_shadow": 1,
+          "harpy": 1,
+          "moloch": 1,
+          "god_of_mischief": 1,
+          "sauron": 1
+        }
       }
     ]
   },
   {
     "id": "dq10",
-    "text": "最後に、あなたの「運命」は？",
+    "text": "秩序のための犠牲は正当化されるか？",
     "options": [
       {
-        "label": "永遠の支配",
-        "scores": { "emperor": 3, "sauron": 3, "vampire": 2, "lucifer": 2 }
+        "label": "秩序こそ全て。犠牲は必要なコストだ",
+        "scores": {
+          "tyrant": 3,
+          "emperor": 3,
+          "magneto": 2,
+          "lilith": 1,
+          "medusa": 1,
+          "phoenix_dark": 1,
+          "alp": 1,
+          "hannibal": 1,
+          "tengu": 1
+        }
       },
       {
-        "label": "破滅と再生",
-        "scores": { "phoenix_dark": 3, "darth_vader": 3, "abaddon": 2, "wendigo": 2 }
+        "label": "秩序は強者が弱者を従えるための道具にすぎない",
+        "scores": {
+          "magneto": 3,
+          "rakshasa": 3,
+          "emperor": 2,
+          "chernobog": 1,
+          "cipactli": 1,
+          "two_face": 1,
+          "phantom": 1,
+          "chucky": 1
+        }
       },
       {
-        "label": "永遠の孤独",
-        "scores": { "cthulhu": 3, "medusa": 3, "minotaur": 2, "banshee": 2 }
+        "label": "真の秩序は恐怖から生まれる。恐れさせれば従う",
+        "scores": {
+          "rangda": 3,
+          "ahriman": 3,
+          "magneto": 2,
+          "cthulhu": 1,
+          "soul_eater": 1,
+          "fenrir": 1,
+          "pinhead": 1,
+          "poison_ivy": 1
+        }
       },
       {
-        "label": "混沌の中で笑う",
-        "scores": { "joker": 3, "carnage": 3, "nyarlathotep": 2, "poltergeist": 2 }
+        "label": "秩序など退屈。混沌の中にこそ真実がある",
+        "scores": {
+          "tiamat": 3,
+          "nyarlathotep": 3,
+          "djinn": 3,
+          "rakshasa": 2,
+          "shadow_self": 1,
+          "baba_yaga": 1,
+          "behemoth": 1,
+          "jormungandr": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq11",
+    "text": "最も魅力的な支配の形とは？",
+    "options": [
+      {
+        "label": "精神の支配。思考と信仰を操り、自発的に従わせる",
+        "scores": {
+          "cult_leader": 3,
+          "mara": 3,
+          "venom": 2,
+          "dagon": 1,
+          "skinwalker": 1,
+          "kraken": 1,
+          "jorogumo": 1,
+          "scylla": 1,
+          "doppelganger": 1
+        }
+      },
+      {
+        "label": "肉体の支配。圧倒的な力で屈服させる",
+        "scores": {
+          "venom": 3,
+          "kraken": 3,
+          "mara": 2,
+          "banshee": 1,
+          "tyrant": 1,
+          "chernobog": 1,
+          "siren": 1,
+          "serial_killer": 1
+        }
+      },
+      {
+        "label": "契約の支配。欲望を利用し、自ら鎖をかけさせる",
+        "scores": {
+          "asmodeus": 3,
+          "jorogumo": 3,
+          "soul_eater": 3,
+          "venom": 2,
+          "manipulator": 1,
+          "sadist": 1,
+          "freddy": 1,
+          "poison_ivy": 1
+        }
+      },
+      {
+        "label": "恐怖の支配。名を聞くだけで震え上がらせる",
+        "scores": {
+          "dracula": 3,
+          "manticore": 3,
+          "basilisk": 3,
+          "kraken": 2,
+          "mad_titan": 1,
+          "jiangshi": 1,
+          "banshee": 1,
+          "mephistopheles": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq12",
+    "text": "あなたが反逆を起こすとしたら、その動機は？",
+    "options": [
+      {
+        "label": "自由のため。鎖を断ち切り、誰にも支配されない世界を作る",
+        "scores": {
+          "fenrir": 3,
+          "lucifer": 3,
+          "phantom": 2,
+          "grim_reaper": 1,
+          "cerberus": 1,
+          "jason": 1,
+          "cult_leader": 1,
+          "voldemort": 1
+        }
+      },
+      {
+        "label": "復讐のため。受けた屈辱を万倍にして返す",
+        "scores": {
+          "phantom": 3,
+          "poison_ivy": 3,
+          "harpy": 3,
+          "lucifer": 2,
+          "incubus": 1,
+          "abaddon": 1,
+          "leviathan": 1,
+          "naga": 1
+        }
+      },
+      {
+        "label": "面白いから。退屈な秩序を壊して、混沌を見たい",
+        "scores": {
+          "god_of_mischief": 3,
+          "joker": 3,
+          "phantom": 2,
+          "dark_knight": 1,
+          "chucky": 1,
+          "persephone_shadow": 1,
+          "jekyll_hyde": 1,
+          "baba_yaga": 1
+        }
+      },
+      {
+        "label": "使命のため。この腐った世界を浄化する",
+        "scores": {
+          "mad_titan": 3,
+          "abaddon": 3,
+          "cipactli": 3,
+          "poison_ivy": 2,
+          "oni": 1,
+          "rangda": 1,
+          "azazel": 1,
+          "terminator": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq13",
+    "text": "恐怖をどう使う？",
+    "options": [
+      {
+        "label": "恐怖は最高の道具。人の心の弱みを突き、支配する",
+        "scores": {
+          "scarecrow": 3,
+          "alp": 3,
+          "jormungandr": 2,
+          "joker": 1,
+          "riddler": 1,
+          "narcissist": 1,
+          "magneto": 1,
+          "golem": 1
+        }
+      },
+      {
+        "label": "恐怖そのものになる。存在自体が恐怖であるべきだ",
+        "scores": {
+          "jormungandr": 3,
+          "scylla": 3,
+          "alp": 2,
+          "chimera": 1,
+          "vampire": 1,
+          "lilith": 1,
+          "baphomet": 1,
+          "cthulhu": 1
+        }
+      },
+      {
+        "label": "恐怖は不要。恐れずに笑い、相手を狂わせる",
+        "scores": {
+          "pennywise": 3,
+          "chucky": 3,
+          "jormungandr": 2,
+          "moloch": 1,
+          "emperor": 1,
+          "roanoke_spirit": 1,
+          "hecate": 1,
+          "pinhead": 1
+        }
+      },
+      {
+        "label": "恐怖を超越している。死すら恐れない者こそ最強だ",
+        "scores": {
+          "phoenix_dark": 3,
+          "dracula": 3,
+          "jiangshi": 3,
+          "scylla": 2,
+          "poltergeist": 1,
+          "skinwalker": 1,
+          "two_face": 1,
+          "fenrir": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq14",
+    "text": "もし絶大な権力を手に入れたら、最初に何をする？",
+    "options": [
+      {
+        "label": "旧体制を全て破壊し、新しい秩序を一から作る",
+        "scores": {
+          "emperor": 3,
+          "sauron": 3,
+          "magneto": 3,
+          "medusa": 2,
+          "beelzebub": 1,
+          "vortigern": 1,
+          "dagon": 1,
+          "soul_eater": 1,
+          "narcissist": 1
+        }
+      },
+      {
+        "label": "自分を裏切った者、見下した者全員への復讐を果たす",
+        "scores": {
+          "medusa": 3,
+          "minotaur": 3,
+          "poison_ivy": 3,
+          "sauron": 2,
+          "scarecrow": 1,
+          "god_of_mischief": 1,
+          "hannibal": 1,
+          "rakshasa": 1
+        }
+      },
+      {
+        "label": "禁断の実験を始める。倫理に縛られない究極の知識を追求する",
+        "scores": {
+          "mad_scientist": 3,
+          "hecate": 3,
+          "magneto": 2,
+          "asmodeus": 1,
+          "djinn": 1,
+          "pennywise": 1,
+          "doppelganger": 1,
+          "alp": 1
+        }
+      },
+      {
+        "label": "何もしない。権力を持ったまま、世界が朽ちていくのを眺める",
+        "scores": {
+          "belphegor": 3,
+          "dagon": 3,
+          "medusa": 2,
+          "jormungandr": 1,
+          "jorogumo": 1,
+          "cipactli": 1,
+          "mammon": 1,
+          "wendigo": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq15",
+    "text": "死の本質をどう捉えるか？",
+    "options": [
+      {
+        "label": "死は克服すべき敵。不死こそが究極の勝利",
+        "scores": {
+          "voldemort": 3,
+          "ammit": 3,
+          "banshee": 2,
+          "predator": 1,
+          "ahriman": 1,
+          "homunculus": 1,
+          "minotaur": 1,
+          "mara": 1
+        }
+      },
+      {
+        "label": "死は平等な審判者。誰もが等しく訪れを受ける",
+        "scores": {
+          "banshee": 3,
+          "persephone_shadow": 3,
+          "grim_reaper": 3,
+          "ammit": 2,
+          "manticore": 1,
+          "venom": 1,
+          "harpy": 1,
+          "sauron": 1
+        }
+      },
+      {
+        "label": "死は単なる変化。終わりは新しい始まりにすぎない",
+        "scores": {
+          "phoenix_dark": 3,
+          "two_face": 3,
+          "jekyll_hyde": 3,
+          "banshee": 2,
+          "sphinx_dark": 1,
+          "shadow_self": 1,
+          "alien": 1,
+          "darth_vader": 1
+        }
+      },
+      {
+        "label": "死は無意味。宇宙の時間軸では全ての存在が塵にすぎない",
+        "scores": {
+          "pinhead": 3,
+          "beelzebub": 3,
+          "leviathan": 3,
+          "persephone_shadow": 2,
+          "phantom": 1,
+          "basilisk": 1,
+          "medusa": 1,
+          "belphegor": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq16",
+    "text": "虚無と向き合うとき、あなたはどうする？",
+    "options": [
+      {
+        "label": "虚無を埋めるために、全てを貪り食う",
+        "scores": {
+          "cipactli": 3,
+          "mammon": 3,
+          "wendigo": 3,
+          "golem": 2,
+          "psychopath": 1,
+          "carnage": 1,
+          "lucifer": 1,
+          "nyarlathotep": 1
+        }
+      },
+      {
+        "label": "虚無に抗い、創造と破壊を繰り返す",
+        "scores": {
+          "golem": 3,
+          "manticore": 3,
+          "chimera": 3,
+          "mammon": 2,
+          "behemoth": 1,
+          "tiamat": 1,
+          "scylla": 1,
+          "ammit": 1
+        }
+      },
+      {
+        "label": "虚無そのものになる。空虚こそが自分の本質だ",
+        "scores": {
+          "chernobog": 3,
+          "persephone_shadow": 3,
+          "roanoke_spirit": 3,
+          "wendigo": 2,
+          "phoenix_dark": 1,
+          "tyrant": 1,
+          "tengu": 1,
+          "dracula": 1
+        }
+      },
+      {
+        "label": "虚無に笑いかける。意味のなさこそが自由だ",
+        "scores": {
+          "tengu": 3,
+          "poltergeist": 3,
+          "jekyll_hyde": 3,
+          "golem": 2,
+          "kraken": 1,
+          "mad_scientist": 1,
+          "cult_leader": 1,
+          "lucifer": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq17",
+    "text": "永遠の孤独か、束の間の繋がりか。どちらを選ぶ？",
+    "options": [
+      {
+        "label": "永遠の孤独を選ぶ。他者は弱さの原因だ",
+        "scores": {
+          "predator": 3,
+          "alien": 3,
+          "kraken": 3,
+          "vampire": 2,
+          "soul_eater": 1,
+          "sadist": 1,
+          "chimera": 1,
+          "incubus": 1
+        }
+      },
+      {
+        "label": "束の間の繋がりを選ぶ。たとえ破壊されると知っていても",
+        "scores": {
+          "vampire": 3,
+          "alien": 2,
+          "two_face": 1,
+          "pinhead": 1,
+          "emperor": 1,
+          "nyarlathotep": 1,
+          "manticore": 1,
+          "mad_scientist": 1
+        }
+      },
+      {
+        "label": "他者を支配することで孤独を埋める",
+        "scores": {
+          "vortigern": 3,
+          "ahriman": 3,
+          "naga": 3,
+          "kraken": 2,
+          "scylla": 1,
+          "sphinx_dark": 1,
+          "vampire": 1,
+          "manipulator": 1
+        }
+      },
+      {
+        "label": "孤独も繋がりも幻想。自分すら存在しないかもしれない",
+        "scores": {
+          "mara": 3,
+          "homunculus": 3,
+          "vampire": 2,
+          "jormungandr": 1,
+          "phantom": 1,
+          "dark_knight": 1,
+          "venom": 1,
+          "lilith": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq18",
+    "text": "あなたの闇の形は何に最も近い？",
+    "options": [
+      {
+        "label": "灼熱の炎。触れるもの全てを焼き尽くす業火",
+        "scores": {
+          "tiamat": 3,
+          "moloch": 3,
+          "behemoth": 3,
+          "leviathan": 2,
+          "djinn": 1,
+          "alien": 1,
+          "scarecrow": 1,
+          "baba_yaga": 1,
+          "ahriman": 1
+        }
+      },
+      {
+        "label": "深海の闇。底知れぬ深淵に全てを飲み込む",
+        "scores": {
+          "leviathan": 3,
+          "cthulhu": 3,
+          "dagon": 3,
+          "moloch": 2,
+          "asmodeus": 1,
+          "serial_killer": 1,
+          "baphomet": 1,
+          "darth_vader": 1
+        }
+      },
+      {
+        "label": "蜘蛛の糸。見えない罠で獲物をゆっくり絡め取る",
+        "scores": {
+          "manipulator": 3,
+          "jorogumo": 3,
+          "behemoth": 2,
+          "joker": 1,
+          "psychopath": 1,
+          "poltergeist": 1,
+          "azazel": 1,
+          "freddy": 1
+        }
+      },
+      {
+        "label": "嵐の風。予測不能な破壊を撒き散らす暴風",
+        "scores": {
+          "fenrir": 3,
+          "rakshasa": 3,
+          "leviathan": 2,
+          "jiangshi": 1,
+          "kraken": 1,
+          "jason": 1,
+          "medusa": 1,
+          "grim_reaper": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq19",
+    "text": "あなたの最後の対決の舞台はどこか？",
+    "options": [
+      {
+        "label": "崩壊していく巨大な城。炎と瓦礫の中で",
+        "scores": {
+          "rangda": 3,
+          "baba_yaga": 2,
+          "jekyll_hyde": 1,
+          "cipactli": 1,
+          "dracula": 1,
+          "doppelganger": 1,
+          "beelzebub": 1,
+          "skinwalker": 1
+        }
+      },
+      {
+        "label": "果てしない迷宮の最深部。出口のない暗闇で",
+        "scores": {
+          "baba_yaga": 3,
+          "sphinx_dark": 3,
+          "serial_killer": 3,
+          "siren": 2,
+          "banshee": 1,
+          "moloch": 1,
+          "jorogumo": 1,
+          "homunculus": 1
+        }
+      },
+      {
+        "label": "荒れ狂う海の上。嵐の中心で",
+        "scores": {
+          "siren": 3,
+          "medusa": 3,
+          "sphinx_dark": 2,
+          "shadow_self": 1,
+          "rakshasa": 1,
+          "hecate": 1,
+          "tiamat": 1,
+          "sauron": 1
+        }
+      },
+      {
+        "label": "精神世界。夢と現実の狭間にある意識の戦場で",
+        "scores": {
+          "freddy": 3,
+          "alp": 3,
+          "doppelganger": 3,
+          "serial_killer": 2,
+          "minotaur": 1,
+          "fenrir": 1,
+          "wendigo": 1,
+          "voldemort": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "dq20",
+    "text": "闇の果てに待つものは何だと思う？",
+    "options": [
+      {
+        "label": "絶対的な力。闇を極めた者だけが到達する至高の境地",
+        "scores": {
+          "sphinx_dark": 3,
+          "baphomet": 3,
+          "hecate": 3,
+          "lilith": 2,
+          "cerberus": 1,
+          "poison_ivy": 1,
+          "dagon": 1,
+          "chernobog": 1
+        }
+      },
+      {
+        "label": "完全な自由。全ての枷から解放された真の解放",
+        "scores": {
+          "lilith": 3,
+          "djinn": 3,
+          "baphomet": 2,
+          "phoenix_dark": 1,
+          "leviathan": 1,
+          "carnage": 1,
+          "pennywise": 1,
+          "mephistopheles": 1
+        }
+      },
+      {
+        "label": "永遠の静寂。全てが終わった後の、完璧な無",
+        "scores": {
+          "riddler": 3,
+          "incubus": 3,
+          "beelzebub": 3,
+          "hecate": 2,
+          "hannibal": 1,
+          "mammon": 1,
+          "vortigern": 1,
+          "abaddon": 1
+        }
+      },
+      {
+        "label": "もう一人の自分。闇の鏡に映る、完成された影",
+        "scores": {
+          "skinwalker": 3,
+          "chimera": 3,
+          "shadow_self": 3,
+          "lilith": 2,
+          "naga": 1,
+          "mara": 1,
+          "oni": 1,
+          "terminator": 1
+        }
       }
     ]
   }

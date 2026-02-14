@@ -16,15 +16,15 @@ const Result: FC<ResultProps> = ({ answers, mode }) => {
   const [resultDeity, setResultDeity] = useState<Deity | null>(null);
 
   useEffect(() => {
-    if (answers.length < 10) {
-      navigate('/'); // Go back if no answers
+    const questions = (mode === 'dark' ? demonQuestionsData : questionsData) as Question[];
+    if (answers.length < questions.length) {
+      navigate('/');
       return;
     }
     const deities = (mode === 'dark' ? demonsData : deitiesData) as Deity[];
-    const questions = (mode === 'dark' ? demonQuestionsData : questionsData) as Question[];
     const result = computeResult(answers, questions, deities);
     setResultDeity(result);
-  }, [answers, navigate]);
+  }, [answers, navigate, mode]);
 
   if (!resultDeity) return <div className="loading">魂の共鳴を解析中...</div>;
 

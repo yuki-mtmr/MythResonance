@@ -1,221 +1,1133 @@
 [
   {
     "id": "q1",
-    "text": "休日、どのように過ごすのが最も「自分らしい」と感じますか？",
+    "text": "もし宇宙の法則を一つだけ変えられるとしたら、何を変えますか？",
     "options": [
       {
-        "label": "目標を立てて効率的にタスクをこなす",
-        "scores": { "zeus": 2, "athena": 2, "odin": 1, "anubis": 1 }
+        "label": "因果律を書き換え、意志の力だけで現実を動かせるようにする",
+        "scores": {
+          "zeus": 3,
+          "ra": 3,
+          "amaterasu": 2,
+          "marduk": 2,
+          "lugh": 1,
+          "vishnu": 1,
+          "athena": 1
+        }
       },
       {
-        "label": "気の向くままに好きなことを楽しむ",
-        "scores": { "freya": 2, "aphrodite": 2, "bastet": 2, "susanoo": 1 }
+        "label": "エントロピーを逆転させ、全てのものが朽ちず永遠に輝くようにする",
+        "scores": {
+          "xiwangmu": 3,
+          "aphrodite": 3,
+          "freya": 2,
+          "brigid": 2,
+          "ishtar": 2,
+          "vishnu": 1,
+          "amaterasu": 1,
+          "ganesha": 1,
+          "cernunnos": 1
+        }
       },
       {
-        "label": "静かな場所で一人、思索や読書にふける",
-        "scores": { "odin": 2, "tsukuyomi": 2, "athena": 1, "anubis": 1 }
+        "label": "重力を自在に操れるようにし、あらゆる境界を超越する",
+        "scores": {
+          "thor": 3,
+          "poseidon": 3,
+          "susanoo": 2,
+          "ares": 1,
+          "hanuman": 2,
+          "gilgamesh": 1,
+          "sun_wukong": 1
+        }
       },
       {
-        "label": "大切な仲間や家族と穏やかに過ごす",
-        "scores": { "amaterasu": 2, "bragi": 2, "bastet": 1, "aphrodite": 1 }
+        "label": "時間の一方向性を廃し、過去と未来を自由に行き来できるようにする",
+        "scores": {
+          "quetzalcoatl": 3,
+          "shiva": 3,
+          "izanagi": 2,
+          "tezcatlipoca": 2,
+          "odin": 1,
+          "thoth": 1,
+          "tsukuyomi": 1
+        }
       }
     ]
   },
   {
     "id": "q2",
-    "text": "新しいことを始める際、あなたの第一ステップは？",
+    "text": "「存在する」とは何によって定義されると思いますか？",
     "options": [
       {
-        "label": "徹底的に調べ上げ、戦略を練る",
-        "scores": { "athena": 2, "odin": 2, "tsukuyomi": 1, "anubis": 1 }
+        "label": "名前を持ち、他者に認識されること——存在とは関係性の中にある",
+        "scores": {
+          "marduk": 3,
+          "izanagi": 3,
+          "ra": 2,
+          "amaterasu": 2,
+          "bragi": 1,
+          "brigid": 1,
+          "zeus": 1
+        }
       },
       {
-        "label": "直感に従って、まずは飛び込んでみる",
-        "scores": { "susanoo": 2, "poseidon": 2, "bastet": 2, "freya": 1 }
+        "label": "思考し、問い続けること——存在とは知性の営みである",
+        "scores": {
+          "athena": 3,
+          "thoth": 3,
+          "ganesha": 2,
+          "odin": 2,
+          "saraswati": 1,
+          "tsukuyomi": 1,
+          "anubis": 1
+        }
       },
       {
-        "label": "周囲の意見を聞き、調和を図りながら進める",
-        "scores": { "amaterasu": 2, "bragi": 2, "zeus": 1, "aphrodite": 1 }
+        "label": "変化し続けること——存在とは流動そのものである",
+        "scores": {
+          "hermes": 2,
+          "loki": 2,
+          "dionysus": 2,
+          "shiva": 2,
+          "quetzalcoatl": 1,
+          "sun_wukong": 1,
+          "bastet": 1,
+          "kali": 1
+        }
       },
       {
-        "label": "自分の美学や理想に合うかを確認する",
-        "scores": { "aphrodite": 2, "freya": 2, "athena": 1, "bragi": 1 }
+        "label": "何かを守り、育むこと——存在とは他への献身である",
+        "scores": {
+          "inari": 3,
+          "mazu": 2,
+          "guan_yu": 2,
+          "poseidon": 2,
+          "vishnu": 1,
+          "brigid": 1,
+          "hanuman": 1,
+          "freya": 1
+        }
       }
     ]
   },
   {
     "id": "q3",
-    "text": "予期せぬトラブルが発生した時、どう反応しますか？",
+    "text": "永遠に一つだけ犠牲にしなければならないとしたら、何を手放しますか？",
     "options": [
       {
-        "label": "即座に指揮を執り、解決に向けて動く",
-        "scores": { "zeus": 2, "susanoo": 1, "amaterasu": 1, "athena": 1 }
+        "label": "安全——危険と隣り合わせでも、自由と栄光を追い求める",
+        "scores": {
+          "ares": 3,
+          "gilgamesh": 3,
+          "thor": 3,
+          "susanoo": 2,
+          "sun_wukong": 1,
+          "loki": 1,
+          "hermes": 1,
+          "zeus": 1,
+          "ganesha": 1
+        }
       },
       {
-        "label": "動揺せず、客観的に状況を分析する",
-        "scores": { "anubis": 2, "tsukuyomi": 2, "athena": 1, "odin": 1 }
+        "label": "孤独——常に誰かと共にある代わりに、内なる静寂を失う",
+        "scores": {
+          "aphrodite": 3,
+          "freya": 3,
+          "vishnu": 3,
+          "brigid": 2,
+          "ishtar": 2,
+          "mazu": 1,
+          "bastet": 1
+        }
       },
       {
-        "label": "感情が大きく揺れ動くが、それをバネにする",
-        "scores": { "poseidon": 2, "susanoo": 2, "freya": 1, "bastet": 1 }
+        "label": "感情——冷静な判断力を得る代わりに、喜びも悲しみも薄れる",
+        "scores": {
+          "odin": 3,
+          "anubis": 2,
+          "athena": 2,
+          "thoth": 2,
+          "tsukuyomi": 2,
+          "hades": 1,
+          "marduk": 1,
+          "morrigan": 1
+        }
       },
       {
-        "label": "言葉を尽くして、周囲を落ち着かせる",
-        "scores": { "bragi": 2, "amaterasu": 2, "athena": 1, "bastet": 1 }
+        "label": "記憶——過去の重荷を降ろし、常に新鮮な「今」を生きる",
+        "scores": {
+          "mazu": 3,
+          "dionysus": 2,
+          "bastet": 2,
+          "quetzalcoatl": 2,
+          "loki": 1,
+          "shiva": 1,
+          "inari": 1
+        }
       }
     ]
   },
   {
     "id": "q4",
-    "text": "あなたが最も価値を置く「力」はどれですか？",
+    "text": "「真実」と「幸福」が永遠に両立しないとしたら、どちらを選びますか？",
     "options": [
       {
-        "label": "世界を変える「意志と権威」",
-        "scores": { "zeus": 2, "poseidon": 1, "odin": 1, "amaterasu": 1 }
+        "label": "たとえ苦痛でも真実を選ぶ——偽りの幸福に意味はない",
+        "scores": {
+          "athena": 3,
+          "guan_yu": 3,
+          "odin": 2,
+          "anubis": 2,
+          "ra": 1,
+          "thoth": 1,
+          "marduk": 1
+        }
       },
       {
-        "label": "全てを見通す「知恵と真理」",
-        "scores": { "odin": 2, "athena": 2, "tsukuyomi": 1, "anubis": 1 }
+        "label": "真実も幸福も超越する——そもそもその二項対立を拒否する",
+        "scores": {
+          "loki": 3,
+          "dionysus": 3,
+          "sun_wukong": 2,
+          "hermes": 2,
+          "bastet": 1,
+          "tezcatlipoca": 1,
+          "quetzalcoatl": 1,
+          "zeus": 1,
+          "ganesha": 1
+        }
       },
       {
-        "label": "心を動かす「美と感性」",
-        "scores": { "aphrodite": 2, "freya": 2, "bragi": 2, "bastet": 1 }
+        "label": "幸福を選ぶ——人は物語を信じることで生きられる",
+        "scores": {
+          "brigid": 3,
+          "aphrodite": 2,
+          "freya": 2,
+          "bragi": 2,
+          "ishtar": 1,
+          "inari": 1,
+          "mazu": 1,
+          "amaterasu": 1,
+          "saraswati": 1
+        }
       },
       {
-        "label": "困難を突破する「勇気と体力」",
-        "scores": { "susanoo": 2, "poseidon": 1, "zeus": 1, "bastet": 1 }
+        "label": "真実の中に美を見出す——残酷な真実こそ力の源泉",
+        "scores": {
+          "ishtar": 3,
+          "tezcatlipoca": 3,
+          "kali": 2,
+          "morrigan": 2,
+          "hades": 1,
+          "shiva": 1,
+          "ares": 1
+        }
       }
     ]
   },
   {
     "id": "q5",
-    "text": "集団の中にいるとき、あなたはどんな役割に回ることが多いですか？",
+    "text": "世界中の時間が止まり、あなただけが自由に動けるとしたら、最初に何をしますか？",
     "options": [
       {
-        "label": "全体をまとめ、方向性を示すリーダー",
-        "scores": { "zeus": 2, "amaterasu": 2, "athena": 1, "odin": 1 }
+        "label": "誰もいない場所で、普段できない修練や学びに没頭する",
+        "scores": {
+          "lugh": 3,
+          "athena": 2,
+          "hanuman": 2,
+          "ganesha": 2,
+          "susanoo": 2,
+          "odin": 1,
+          "thoth": 1,
+          "gilgamesh": 1
+        }
       },
       {
-        "label": "専門知識でサポートする頼れるアドバイザー",
-        "scores": { "athena": 2, "anubis": 2, "odin": 1, "tsukuyomi": 1 }
+        "label": "あらゆる場所を巡り、隠された秘密や宝を見つけ出す",
+        "scores": {
+          "hermes": 3,
+          "sun_wukong": 3,
+          "loki": 2,
+          "bastet": 2,
+          "dionysus": 1,
+          "cernunnos": 1,
+          "inari": 1
+        }
       },
       {
-        "label": "雰囲気を和ませ、活力を与えるムードメーカー",
-        "scores": { "bastet": 2, "bragi": 2, "aphrodite": 2, "susanoo": 1 }
+        "label": "世界をあるべき姿に整え、再び時が動き出す準備をする",
+        "scores": {
+          "amaterasu": 3,
+          "inari": 3,
+          "vishnu": 2,
+          "ra": 2,
+          "zeus": 1,
+          "marduk": 1,
+          "guan_yu": 1
+        }
       },
       {
-        "label": "一歩引いて静かに見守る観察者",
-        "scores": { "tsukuyomi": 2, "odin": 2, "anubis": 1, "athena": 1 }
+        "label": "静止した世界の美しさをただ味わい、存在の本質を感じる",
+        "scores": {
+          "tsukuyomi": 3,
+          "bastet": 3,
+          "xiwangmu": 2,
+          "cernunnos": 2,
+          "freya": 1,
+          "aphrodite": 1,
+          "bragi": 1
+        }
       }
     ]
   },
   {
     "id": "q6",
-    "text": "「成功」とは、あなたにとって何ですか？",
+    "text": "他者には決して見せない、自分の中に隠された側面とは何ですか？",
     "options": [
       {
-        "label": "目標を達成し、支配権や名声を得ること",
-        "scores": { "zeus": 2, "poseidon": 2, "freya": 1, "athena": 1 }
+        "label": "全てを知りたいという底なしの渇望——代償を払ってでも",
+        "scores": {
+          "odin": 3,
+          "hades": 3,
+          "thoth": 2,
+          "anubis": 2,
+          "tsukuyomi": 1,
+          "tezcatlipoca": 1,
+          "athena": 1,
+          "zeus": 1,
+          "marduk": 1
+        }
       },
       {
-        "label": "未知の知識を得て、真理に近づくこと",
-        "scores": { "odin": 2, "athena": 2, "tsukuyomi": 1, "anubis": 1 }
+        "label": "規則や秩序への密かな反抗心——自由への衝動",
+        "scores": {
+          "hermes": 3,
+          "bastet": 3,
+          "loki": 2,
+          "sun_wukong": 2,
+          "dionysus": 1,
+          "susanoo": 1,
+          "ares": 1
+        }
       },
       {
-        "label": "自分らしく自由に、人生を謳歌すること",
-        "scores": { "bastet": 2, "aphrodite": 2, "freya": 2, "susanoo": 1 }
+        "label": "深く愛し、愛されたいという切実な願い",
+        "scores": {
+          "freya": 3,
+          "ishtar": 2,
+          "aphrodite": 2,
+          "brigid": 2,
+          "bragi": 2,
+          "mazu": 1,
+          "vishnu": 1
+        }
       },
       {
-        "label": "周囲の人々と平和で幸せな関係を築くこと",
-        "scores": { "amaterasu": 2, "bragi": 2, "bastet": 1, "aphrodite": 1 }
+        "label": "この世界を根底から作り変えたいという破壊衝動",
+        "scores": {
+          "susanoo": 3,
+          "morrigan": 3,
+          "kali": 2,
+          "shiva": 2,
+          "tezcatlipoca": 2,
+          "ares": 2,
+          "thor": 1,
+          "loki": 1
+        }
       }
     ]
   },
   {
     "id": "q7",
-    "text": "落ち込んだ時、どうやって立ち直りますか？",
+    "text": "繰り返し見る夢があるとしたら、その風景はどのようなものですか？",
     "options": [
       {
-        "label": "一人の時間を作り、内省する",
-        "scores": { "tsukuyomi": 2, "anubis": 2, "odin": 1, "athena": 1 }
+        "label": "月光に照らされた静かな水面——鏡のように全てを映す世界",
+        "scores": {
+          "tsukuyomi": 3,
+          "izanagi": 3,
+          "anubis": 2,
+          "hades": 2,
+          "xiwangmu": 1,
+          "cernunnos": 1,
+          "odin": 1,
+          "marduk": 1
+        }
       },
       {
-        "label": "感情を爆発させたり、運動したりして発散する",
-        "scores": { "susanoo": 2, "poseidon": 2, "freya": 1, "zeus": 1 }
+        "label": "終わりのない祝祭——音楽と歓声に満ちた陶酔の空間",
+        "scores": {
+          "dionysus": 3,
+          "aphrodite": 3,
+          "bastet": 2,
+          "freya": 2,
+          "ishtar": 2,
+          "bragi": 1,
+          "sun_wukong": 1
+        }
       },
       {
-        "label": "美味しいものを食べるなど、自分を甘やかす",
-        "scores": { "aphrodite": 2, "bastet": 2, "freya": 1, "bragi": 1 }
+        "label": "果てしない図書館——全ての物語と知識が眠る場所",
+        "scores": {
+          "bragi": 3,
+          "thoth": 2,
+          "saraswati": 2,
+          "athena": 2,
+          "ganesha": 1,
+          "odin": 1,
+          "hermes": 1
+        }
       },
       {
-        "label": "信頼できる人に話を聞いてもらう",
-        "scores": { "bragi": 2, "amaterasu": 2, "athena": 1, "bastet": 1 }
+        "label": "花が咲き乱れる野原——生命力に満ちた創造の大地",
+        "scores": {
+          "brigid": 3,
+          "saraswati": 3,
+          "cernunnos": 2,
+          "inari": 2,
+          "izanagi": 2,
+          "freya": 1,
+          "quetzalcoatl": 1
+        }
       }
     ]
   },
   {
     "id": "q8",
-    "text": "人からどのような印象を持たれることが多いですか？",
+    "text": "もし自分の無意識の底に眠るものを一つだけ取り出せるなら、何を選びますか？",
     "options": [
       {
-        "label": "威厳があり、頼りがいがある",
-        "scores": { "zeus": 2, "amaterasu": 2, "poseidon": 1, "athena": 1 }
+        "label": "忘れ去られた古代の記憶——魂が幾度も転生した痕跡",
+        "scores": {
+          "odin": 3,
+          "thoth": 2,
+          "izanagi": 2,
+          "quetzalcoatl": 2,
+          "xiwangmu": 2,
+          "ra": 1,
+          "vishnu": 1
+        }
       },
       {
-        "label": "知的でクール、冷静沈着",
-        "scores": { "athena": 2, "tsukuyomi": 2, "anubis": 2, "odin": 1 }
+        "label": "死の向こう側の真実——生と死の境界にある答え",
+        "scores": {
+          "anubis": 3,
+          "hades": 3,
+          "morrigan": 2,
+          "kali": 2,
+          "shiva": 1,
+          "tezcatlipoca": 1,
+          "tsukuyomi": 1,
+          "ishtar": 1
+        }
       },
       {
-        "label": "情熱的で、人を惹きつける魅力がある",
-        "scores": { "freya": 2, "aphrodite": 2, "poseidon": 1, "susanoo": 1 }
+        "label": "万物を動かす根源的なエネルギー——宇宙を貫く力",
+        "scores": {
+          "thoth": 3,
+          "ra": 2,
+          "shiva": 2,
+          "zeus": 2,
+          "thor": 1,
+          "marduk": 1,
+          "quetzalcoatl": 1
+        }
       },
       {
-        "label": "自由人で、どこかミステリアス",
-        "scores": { "bastet": 2, "odin": 2, "tsukuyomi": 1, "bragi": 1 }
+        "label": "まだ形になっていない未来の可能性——創造の種子",
+        "scores": {
+          "ganesha": 2,
+          "brigid": 2,
+          "saraswati": 2,
+          "inari": 2,
+          "bragi": 2,
+          "izanagi": 1,
+          "amaterasu": 1,
+          "lugh": 2
+        }
       }
     ]
   },
   {
     "id": "q9",
-    "text": "自分の「直感」と「論理」、どちらを信じますか？",
+    "text": "もし自分の「影（シャドウ）」が人格を持って現れたら、どう向き合いますか？",
     "options": [
       {
-        "label": "圧倒的に論理。データと証拠がすべて",
-        "scores": { "athena": 2, "anubis": 2, "zeus": 1, "odin": 1 }
+        "label": "対話を試み、影が何を求めているのか理解しようとする",
+        "scores": {
+          "ganesha": 3,
+          "vishnu": 2,
+          "athena": 2,
+          "amaterasu": 2,
+          "tsukuyomi": 2,
+          "saraswati": 1,
+          "bragi": 1,
+          "thoth": 1,
+          "marduk": 1
+        }
       },
       {
-        "label": "基本は論理だが、最後は直感で決める",
-        "scores": { "odin": 2, "zeus": 1, "amaterasu": 1, "athena": 1 }
+        "label": "全力で戦い、自分の意志で影を制圧する",
+        "scores": {
+          "ares": 3,
+          "susanoo": 3,
+          "thor": 2,
+          "gilgamesh": 2,
+          "hanuman": 1,
+          "guan_yu": 1,
+          "zeus": 1
+        }
       },
       {
-        "label": "直感が鋭いので、直感に従うことが多い",
-        "scores": { "bastet": 2, "tsukuyomi": 2, "freya": 2, "susanoo": 1 }
+        "label": "影を欺き、翻弄して優位に立つ",
+        "scores": {
+          "sun_wukong": 3,
+          "loki": 2,
+          "hermes": 2,
+          "bastet": 2,
+          "dionysus": 1,
+          "tezcatlipoca": 1,
+          "morrigan": 1
+        }
       },
       {
-        "label": "その時の気分やインスピレーションを大切にする",
-        "scores": { "aphrodite": 2, "bragi": 2, "poseidon": 2, "bastet": 1 }
+        "label": "影を自分の一部として受け入れ、融合する",
+        "scores": {
+          "kali": 3,
+          "shiva": 3,
+          "hades": 2,
+          "morrigan": 2,
+          "anubis": 1,
+          "freya": 1,
+          "odin": 1,
+          "tezcatlipoca": 1
+        }
       }
     ]
   },
   {
     "id": "q10",
-    "text": "最後に選ぶのは、どの「未来」ですか？",
+    "text": "あなたの魂が担っている原型的な役割は何だと感じますか？",
     "options": [
       {
-        "label": "誰もが自分を認め、秩序ある平和な世界",
-        "scores": { "zeus": 2, "amaterasu": 2, "athena": 1, "anubis": 1 }
+        "label": "世界と自然の均衡を見守る「番人」",
+        "scores": {
+          "cernunnos": 3,
+          "mazu": 3,
+          "poseidon": 2,
+          "inari": 2,
+          "vishnu": 1,
+          "guan_yu": 1,
+          "amaterasu": 1,
+          "thoth": 1
+        }
       },
       {
-        "label": "未知の可能性に満ちた、刺激的な世界",
-        "scores": { "susanoo": 2, "poseidon": 2, "odin": 1, "freya": 1 }
+        "label": "運命の糸を紡ぎ、生死を司る「裁定者」",
+        "scores": {
+          "morrigan": 3,
+          "anubis": 2,
+          "hades": 2,
+          "kali": 2,
+          "tezcatlipoca": 1,
+          "ra": 1,
+          "zeus": 1
+        }
       },
       {
-        "label": "愛と美に溢れ、心から愉しめる愉快な世界",
-        "scores": { "aphrodite": 2, "freya": 2, "bragi": 2, "bastet": 2 }
+        "label": "不可能を可能にする「英雄」",
+        "scores": {
+          "hanuman": 3,
+          "guan_yu": 3,
+          "gilgamesh": 2,
+          "thor": 2,
+          "lugh": 2,
+          "ares": 1,
+          "sun_wukong": 1
+        }
       },
       {
-        "label": "静寂に包まれ、真理を探求し続けられる世界",
-        "scores": { "odin": 2, "tsukuyomi": 2, "athena": 1, "anubis": 1 }
+        "label": "魂に火を灯す「愛の体現者」",
+        "scores": {
+          "ishtar": 3,
+          "freya": 3,
+          "aphrodite": 2,
+          "brigid": 2,
+          "dionysus": 1,
+          "bragi": 1,
+          "saraswati": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "text": "「全知（全てを知る力）」と「全能（全てを行う力）」、どちらか一つだけ手に入るなら？",
+    "options": [
+      {
+        "label": "全知——知ることこそ最高の力であり、行動は知恵から生まれる",
+        "scores": {
+          "athena": 3,
+          "lugh": 3,
+          "odin": 2,
+          "thoth": 2,
+          "saraswati": 1,
+          "ganesha": 1,
+          "tsukuyomi": 1
+        }
+      },
+      {
+        "label": "全能——知っていても動けなければ無意味。力こそ現実を変える",
+        "scores": {
+          "zeus": 3,
+          "tezcatlipoca": 3,
+          "loki": 2,
+          "marduk": 2,
+          "thor": 1,
+          "ares": 1,
+          "shiva": 1
+        }
+      },
+      {
+        "label": "どちらも要らない——不完全さこそが生きる意味を与える",
+        "scores": {
+          "dionysus": 2,
+          "bastet": 2,
+          "freya": 2,
+          "brigid": 2,
+          "cernunnos": 1,
+          "izanagi": 1,
+          "aphrodite": 1,
+          "bragi": 1
+        }
+      },
+      {
+        "label": "全知を得た上で、知恵をもって全能に近づく道を選ぶ",
+        "scores": {
+          "vishnu": 2,
+          "ra": 2,
+          "amaterasu": 2,
+          "guan_yu": 2,
+          "poseidon": 2,
+          "mazu": 1,
+          "inari": 1,
+          "hanuman": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "text": "「完全な正義」と「完全な慈悲」が対立するとき、どちらに従いますか？",
+    "options": [
+      {
+        "label": "正義——法と秩序なくして社会は成り立たない",
+        "scores": {
+          "marduk": 3,
+          "morrigan": 3,
+          "zeus": 2,
+          "ra": 2,
+          "ares": 2,
+          "athena": 1,
+          "guan_yu": 1
+        }
+      },
+      {
+        "label": "慈悲——どんな者にも救いの手を差し伸べるべき",
+        "scores": {
+          "vishnu": 3,
+          "mazu": 3,
+          "poseidon": 2,
+          "brigid": 2,
+          "amaterasu": 1,
+          "inari": 1,
+          "freya": 1
+        }
+      },
+      {
+        "label": "状況に応じて判断する——どちらか一方に固執しない",
+        "scores": {
+          "hermes": 2,
+          "loki": 2,
+          "ganesha": 2,
+          "odin": 2,
+          "lugh": 1,
+          "thoth": 1,
+          "bastet": 1,
+          "sun_wukong": 1
+        }
+      },
+      {
+        "label": "正義も慈悲も超えた高次の調和を目指す",
+        "scores": {
+          "quetzalcoatl": 2,
+          "shiva": 2,
+          "izanagi": 2,
+          "amaterasu": 2,
+          "tsukuyomi": 2,
+          "xiwangmu": 1,
+          "saraswati": 2,
+          "vishnu": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "text": "全ての記憶を失う代わりに不死を得られるとしたら？",
+    "options": [
+      {
+        "label": "受け入れる——無限の時間があれば新しい記憶を無限に作れる",
+        "scores": {
+          "gilgamesh": 3,
+          "odin": 2,
+          "xiwangmu": 2,
+          "ra": 2,
+          "sun_wukong": 1,
+          "loki": 1,
+          "hermes": 1
+        }
+      },
+      {
+        "label": "受け入れる——記憶は重荷でもある。白紙から始めたい",
+        "scores": {
+          "hanuman": 3,
+          "shiva": 2,
+          "quetzalcoatl": 2,
+          "dionysus": 2,
+          "lugh": 2,
+          "kali": 1,
+          "bastet": 1
+        }
+      },
+      {
+        "label": "拒否する——記憶こそが自分自身。記憶なき不死は死と同じ",
+        "scores": {
+          "anubis": 3,
+          "hades": 3,
+          "morrigan": 2,
+          "guan_yu": 2,
+          "izanagi": 1,
+          "bragi": 1,
+          "tsukuyomi": 1,
+          "ishtar": 1
+        }
+      },
+      {
+        "label": "条件を交渉する——全てではなく一部の記憶だけ差し出す",
+        "scores": {
+          "xiwangmu": 3,
+          "hermes": 2,
+          "loki": 2,
+          "athena": 2,
+          "ganesha": 1,
+          "bastet": 1,
+          "inari": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "text": "「この文は偽である」のようなパラドックスに出会ったとき、あなたの反応は？",
+    "options": [
+      {
+        "label": "パラドックスを利用して新しい遊びや発想を生み出す",
+        "scores": {
+          "hermes": 3,
+          "sun_wukong": 3,
+          "loki": 3,
+          "bastet": 2,
+          "dionysus": 1,
+          "bragi": 1,
+          "tezcatlipoca": 1
+        }
+      },
+      {
+        "label": "矛盾を解消するために、前提そのものを疑い直す",
+        "scores": {
+          "athena": 2,
+          "thoth": 2,
+          "ganesha": 2,
+          "odin": 2,
+          "saraswati": 2,
+          "marduk": 1,
+          "ra": 1,
+          "lugh": 1
+        }
+      },
+      {
+        "label": "論理で解消できないものは受け入れ、そのまま共存する",
+        "scores": {
+          "athena": 3,
+          "thoth": 3,
+          "ganesha": 3,
+          "vishnu": 2,
+          "cernunnos": 2,
+          "shiva": 1,
+          "izanagi": 1
+        }
+      },
+      {
+        "label": "パラドックスは現実の裂け目——そこに隠された真理がある",
+        "scores": {
+          "tezcatlipoca": 2,
+          "kali": 2,
+          "morrigan": 2,
+          "shiva": 2,
+          "hades": 1,
+          "anubis": 1,
+          "tsukuyomi": 1,
+          "xiwangmu": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "text": "あなたの魂と最も深く共鳴する元素は何ですか？",
+    "options": [
+      {
+        "label": "火——変容の力、破壊と再生を司る原初のエネルギー",
+        "scores": {
+          "ra": 3,
+          "thor": 3,
+          "poseidon": 3,
+          "ares": 2,
+          "lugh": 2,
+          "amaterasu": 1,
+          "susanoo": 1,
+          "shiva": 1
+        }
+      },
+      {
+        "label": "水——全てを受け入れ、浄化し、生命を育む力",
+        "scores": {
+          "brigid": 3,
+          "poseidon": 3,
+          "mazu": 2,
+          "aphrodite": 2,
+          "vishnu": 2,
+          "freya": 1,
+          "izanagi": 1,
+          "inari": 1
+        }
+      },
+      {
+        "label": "大地——万物を支え、悠久の時を刻む不変の力",
+        "scores": {
+          "cernunnos": 3,
+          "quetzalcoatl": 3,
+          "ganesha": 2,
+          "inari": 2,
+          "mazu": 1,
+          "guan_yu": 1,
+          "izanagi": 1,
+          "gilgamesh": 1
+        }
+      },
+      {
+        "label": "風——自由に形を変え、見えない力で世界を動かす",
+        "scores": {
+          "bastet": 3,
+          "hermes": 2,
+          "loki": 2,
+          "sun_wukong": 2,
+          "hanuman": 2,
+          "bragi": 1,
+          "odin": 1,
+          "susanoo": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "text": "宇宙が一つの音を発しているとしたら、それはどんな音だと思いますか？",
+    "options": [
+      {
+        "label": "深い沈黙——音の不在こそが究極の響き",
+        "scores": {
+          "tsukuyomi": 3,
+          "xiwangmu": 3,
+          "hades": 2,
+          "anubis": 2,
+          "cernunnos": 1,
+          "odin": 1,
+          "shiva": 1
+        }
+      },
+      {
+        "label": "大地の鼓動——生命のリズムそのもの",
+        "scores": {
+          "cernunnos": 3,
+          "guan_yu": 2,
+          "thor": 2,
+          "poseidon": 2,
+          "zeus": 2,
+          "mazu": 1,
+          "inari": 1,
+          "quetzalcoatl": 1,
+          "izanagi": 1
+        }
+      },
+      {
+        "label": "天上の合唱——調和した無数の声が一つになった響き",
+        "scores": {
+          "saraswati": 3,
+          "aphrodite": 2,
+          "amaterasu": 2,
+          "vishnu": 2,
+          "bragi": 2,
+          "brigid": 1,
+          "ra": 1,
+          "freya": 1
+        }
+      },
+      {
+        "label": "制御不能な爆発音——混沌から秩序が生まれる瞬間の轟き",
+        "scores": {
+          "dionysus": 3,
+          "bragi": 3,
+          "susanoo": 2,
+          "kali": 2,
+          "shiva": 1,
+          "tezcatlipoca": 1,
+          "ares": 1,
+          "loki": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "text": "時間の本質とは何だと思いますか？",
+    "options": [
+      {
+        "label": "永遠に繰り返す円環——全ては巡り、還る",
+        "scores": {
+          "ra": 3,
+          "amaterasu": 3,
+          "vishnu": 2,
+          "quetzalcoatl": 2,
+          "izanagi": 1,
+          "marduk": 1,
+          "xiwangmu": 1
+        }
+      },
+      {
+        "label": "一度きりの直線——不可逆だからこそ尊い",
+        "scores": {
+          "anubis": 3,
+          "hades": 2,
+          "guan_yu": 2,
+          "gilgamesh": 2,
+          "morrigan": 2,
+          "ares": 1,
+          "hanuman": 1,
+          "poseidon": 1
+        }
+      },
+      {
+        "label": "分岐する樹木——無数の可能性が同時に存在する",
+        "scores": {
+          "quetzalcoatl": 3,
+          "xiwangmu": 2,
+          "odin": 2,
+          "loki": 2,
+          "hermes": 1,
+          "athena": 1,
+          "thoth": 1
+        }
+      },
+      {
+        "label": "幻——時間は人間が作り出した概念に過ぎない",
+        "scores": {
+          "shiva": 3,
+          "kali": 3,
+          "tezcatlipoca": 2,
+          "dionysus": 2,
+          "tsukuyomi": 1,
+          "sun_wukong": 1,
+          "bastet": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "text": "大いなる力を手にしたとき、最初に何をしますか？",
+    "options": [
+      {
+        "label": "世界に秩序を敷き、混乱を終わらせる",
+        "scores": {
+          "zeus": 3,
+          "lugh": 3,
+          "marduk": 2,
+          "ra": 2,
+          "amaterasu": 1,
+          "athena": 1,
+          "vishnu": 1
+        }
+      },
+      {
+        "label": "自らの限界に挑み、最強の存在と戦う",
+        "scores": {
+          "ares": 3,
+          "hanuman": 3,
+          "thor": 2,
+          "gilgamesh": 2,
+          "susanoo": 1,
+          "sun_wukong": 1,
+          "guan_yu": 1
+        }
+      },
+      {
+        "label": "力を使って美と愛と喜びを世界中に広める",
+        "scores": {
+          "ishtar": 3,
+          "aphrodite": 2,
+          "freya": 2,
+          "brigid": 2,
+          "saraswati": 2,
+          "bragi": 1,
+          "dionysus": 1,
+          "bastet": 1
+        }
+      },
+      {
+        "label": "弱き者を守り、苦しむ者を救う",
+        "scores": {
+          "guan_yu": 3,
+          "mazu": 2,
+          "poseidon": 2,
+          "inari": 2,
+          "vishnu": 1,
+          "hanuman": 1,
+          "brigid": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "text": "「混沌」と「秩序」の関係をどう捉えますか？",
+    "options": [
+      {
+        "label": "秩序こそ至高——混沌は克服すべき敵である",
+        "scores": {
+          "ganesha": 3,
+          "marduk": 2,
+          "zeus": 2,
+          "ra": 2,
+          "athena": 1,
+          "amaterasu": 1,
+          "lugh": 1,
+          "guan_yu": 1
+        }
+      },
+      {
+        "label": "秩序の中に混沌を組み込む——管理された混沌こそ創造の源",
+        "scores": {
+          "marduk": 3,
+          "vishnu": 3,
+          "odin": 2,
+          "quetzalcoatl": 2,
+          "izanagi": 1,
+          "thoth": 1,
+          "athena": 1,
+          "lugh": 1
+        }
+      },
+      {
+        "label": "混沌こそ自然の状態——秩序は一時的な幻想に過ぎない",
+        "scores": {
+          "loki": 3,
+          "dionysus": 2,
+          "sun_wukong": 2,
+          "hermes": 2,
+          "bastet": 2,
+          "ares": 2,
+          "tezcatlipoca": 1,
+          "shiva": 1,
+          "kali": 1
+        }
+      },
+      {
+        "label": "両者は不可分の一体——破壊なくして創造なし",
+        "scores": {
+          "kali": 3,
+          "susanoo": 3,
+          "tezcatlipoca": 3,
+          "shiva": 2,
+          "morrigan": 2,
+          "hades": 1,
+          "thor": 1,
+          "anubis": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "text": "あなたが世界に遺したいものは何ですか？",
+    "options": [
+      {
+        "label": "語り継がれる偉業——永遠に記憶される英雄譚",
+        "scores": {
+          "gilgamesh": 3,
+          "thor": 2,
+          "ares": 2,
+          "hanuman": 2,
+          "lugh": 1,
+          "sun_wukong": 1,
+          "guan_yu": 1,
+          "zeus": 1,
+          "poseidon": 1,
+          "aphrodite": 1
+        }
+      },
+      {
+        "label": "繁栄する共同体——次世代が安心して暮らせる基盤",
+        "scores": {
+          "amaterasu": 3,
+          "inari": 3,
+          "mazu": 2,
+          "vishnu": 2,
+          "ra": 1,
+          "guan_yu": 1,
+          "poseidon": 1,
+          "marduk": 1
+        }
+      },
+      {
+        "label": "美しい創造物——人の心を永遠に揺さぶる芸術や知恵",
+        "scores": {
+          "saraswati": 3,
+          "bragi": 3,
+          "brigid": 2,
+          "aphrodite": 2,
+          "thoth": 1,
+          "athena": 1,
+          "ishtar": 1,
+          "freya": 1
+        }
+      },
+      {
+        "label": "何も遺さない——全ては自然に還るべき。執着こそ苦しみの源",
+        "scores": {
+          "izanagi": 3,
+          "shiva": 2,
+          "kali": 2,
+          "cernunnos": 2,
+          "tsukuyomi": 2,
+          "hades": 1,
+          "anubis": 1,
+          "xiwangmu": 1,
+          "quetzalcoatl": 1,
+          "morrigan": 1
+        }
       }
     ]
   }
